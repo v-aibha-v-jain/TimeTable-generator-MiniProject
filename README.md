@@ -14,7 +14,7 @@ The **Automated Timetable Generator** efficiently schedules:
 - Distributes subject hours properly
 - Respects specific timing constraints
 
-This reduces human effort, enhances accuracy, and saves time — making it ideal for **schools, colleges, and universities**.
+This reduces human effort, enhances accuracy, and saves time - making it ideal for **schools, colleges, and universities**.
 
 ## ⚙️ Technologies and Algorithms Used
 
