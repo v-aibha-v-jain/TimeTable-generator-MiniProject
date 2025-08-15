@@ -1,4 +1,4 @@
-# 📅 TimeTable Generator – Mini Project
+# 📅 TimeTable Generator - Mini Project
 
 A group project developed as part of an academic mini project.
 
