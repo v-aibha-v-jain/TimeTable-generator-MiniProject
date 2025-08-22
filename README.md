@@ -35,5 +35,5 @@ The system uses a combination of advanced algorithms:
 
 ## 👨‍💻 Team Members
 
-- [Syeda Subhana](https://github.com/syedasubhana2004)
+- [Syeda Subhana](https://github.com/Subhana2004)
 - Shambhavi S Kulkarni
